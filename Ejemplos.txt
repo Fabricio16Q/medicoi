@@ -1,0 +1,19 @@
+1. Predicción de Enfermedades Basadas en Síntomas
+Descripción Médica:
+"Paciente de 45 años presenta dolor torácico intenso, irradiado hacia el brazo izquierdo, dificultad para respirar, sudoración excesiva y mareos. No tiene antecedentes familiares de enfermedades cardíacas conocidas."
+
+2. Predicción de Enfermedades Basadas en Resultados de Laboratorio
+Descripción Médica:
+"Resultados de laboratorio muestran niveles de glucosa en sangre de 180 mg/dL en ayunas, hemoglobina A1c de 8.2%, colesterol LDL de 160 mg/dL, y triglicéridos de 250 mg/dL."
+
+3. Predicción de Enfermedades Basadas en Antecedentes
+Descripción Médica:
+"Paciente de 60 años con antecedentes de hipertensión y diabetes tipo 2. Presenta visión borrosa, aumento de la sed, y micción frecuente. Hace un año sufrió un infarto al miocardio."
+
+4. Sugerencias de Pruebas
+Descripción Médica:
+"Paciente de 55 años con dolor abdominal recurrente, pérdida de peso inexplicada, y heces de color oscuro. Últimas pruebas revelan anemia microcítica y niveles elevados de marcadores inflamatorios."
+
+5. Información sobre Enfermedades y Resultados del Laboratorio Estándares
+Descripción Médica:
+"¿Cuáles son los rangos de valores normales para los niveles de TSH y T4 libre en un paciente con sospecha de hipotiroidismo? ¿Cómo varían estos niveles en casos de hipotiroidismo subclínico y manifiesto?"
