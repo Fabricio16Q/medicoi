@@ -13,7 +13,9 @@ from PIL import Image
 nest_asyncio.apply()
 
 # Configurar la API Key de OpenAI desde el archivo .env
-os.environ["OPENAI_API_KEY"] = dotenv_values(".env")["API_KEY"]
+#os.environ["OPENAI_API_KEY"] = dotenv_values(".env")["API_KEY"]
+
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 # Configurar la interfaz de Streamlit
 st.set_page_config(page_title="Chatbot Médico", page_icon=":hospital:")
